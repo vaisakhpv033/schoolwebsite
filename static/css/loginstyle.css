@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(90deg, rgba(204,205,205,1) 0%, rgba(255,255,255,1) 50%, rgba(218,216,216,1) 100%);
+}
+.college_logo{
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo_image{
+    max-height:50px;
+    max-width: auto;
+}
+.large{
+    font-size: x-large;
+}
+.error-message{
+    font-size: medium;
+    color:red;
+}
+.success-message{
+    font-size:large;
+    color:green;
+}

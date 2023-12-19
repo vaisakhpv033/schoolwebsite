@@ -1,0 +1,33 @@
+html{
+    height:100%;
+    box-sizing:border-box;
+}
+body{
+    margin:0;
+    display:flex;
+    flex-direction:column;
+    min-height:100vh;
+    box-sizing:inherit;
+}
+.college_logo{
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo_image{
+    max-height:50px;
+    max-width: auto;
+}
+.carousel_image{
+    max-height: 450px;
+    width:100%;
+    opacity: 0.7;
+}
+.error-message{
+    font-size: medium;
+    color:red;
+}
+.my_footer{
+        background: #071630;
+        height:auto;
+        text-align:center;
+        margin-top:auto;
+        }
